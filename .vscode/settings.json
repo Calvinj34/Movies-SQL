@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "postgres://vfqnvwyf:o4ulMpLKJSZm7bO8SrjhYmtinV4c1MgF@batyr.db.elephantsql.com/vfqnvwyf",
+            "driver": "PostgreSQL",
+            "name": "week4day2",
+            "connectString": "postgres://vfqnvwyf:o4ulMpLKJSZm7bO8SrjhYmtinV4c1MgF@batyr.db.elephantsql.com/vfqnvwyf"
+        }
+    ]
+}
